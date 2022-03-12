@@ -614,3 +614,24 @@ model=Planet
 - [ ] struct
 - [ ] marshal
 - [ ] serialize
+
+#### Q67. Which function in the django.urls package can help you avoid hardcoding URLS by generating a URL gicen the name of a view?
+  
+- [ ] get_script_prefix()
+- [ ] redirect()
+- [ ] reverse()
+- [ ] resolve()
+  
+#### Q68. Which is not a third-party package commonly used for authentication?
+  
+- [ ] django-guardian
+- [ ] django-rest-auth
+- [ ] authtoken
+- [ ] django-rest-framework-jwt
+  
+#### Q69. To add a new app to an existing Django project, you must edit the ___ section of the ___ file.
+  
+- [ ] ALLOWED_HOSTS; settings.py
+- [ ] APPS; manage.py
+- [ ] INSTALLED_APPS; settings.py
+- [ ] TEMPLATES; urls.py
